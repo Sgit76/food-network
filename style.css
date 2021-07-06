@@ -28,6 +28,7 @@ h2{
 
 .flexible-container{
    display: flex; 
+   margin-bottom: 50px;
 }
 
 .half-width{
@@ -54,4 +55,37 @@ h2{
     background-repeat: no-repeat;
     padding-top: 10px;
     padding-left:2px;
+    height: 500px;
+}
+    
+.color-gray{
+    color:gray;
+}
+.my-recipies{
+    text-align: center;
+}
+.recipie-item {
+    color: gray;
+    box-shadow: 2px 2px 2px 2px;
+    border-radius: 19px;
+    margin-left: 15%;
+    margin-right: 5%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    padding-top: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-bottom: 5px;
+}
+
+.recipie-item img{
+    width: 200px;
+    height: 200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 10px;
+}
+.recipie-item-text{
+    text-align: center;
 }
