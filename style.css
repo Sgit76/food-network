@@ -109,3 +109,13 @@ h2{
 .social-span-text{
     font-size: 10px;
 }
+.order-process-section{
+    display: flex;
+    color:black;
+    margin-left: 15%;
+    margin-right: 20%;
+    margin-bottom: 10%;
+    padding-left: 5px;
+    padding-right: 5px;
+    text-align: center;
+}
