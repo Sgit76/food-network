@@ -51,7 +51,7 @@ h2{
 }
 
 .middle-background{
-    background-image: url(images/middle-background.jpg);
+    background-image: url(images/middle-bg.jpg);
     background-repeat: no-repeat;
     padding-top: 10px;
     padding-left:2px;
@@ -118,4 +118,10 @@ h2{
     padding-left: 5px;
     padding-right: 5px;
     text-align: center;
+}
+footer{
+    text-align: center;
+    background:#E6D4E0;
+    height: 300px;
+    padding-top: 50px;
 }
