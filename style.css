@@ -6,6 +6,7 @@ body{
 .top-banner{
     background-image: url(images/top-banner-1.png);
     background-repeat: no-repeat;
+    padding-top: 10px;
 }
 
 h1{
@@ -45,5 +46,12 @@ h2{
     color: white;
     background-image: linear-gradient(rgb(219, 68, 93) , pink);
     padding: 10px 40px;
+    border-radius: 50px;
+}
 
+.middle-background{
+    background-image: url(images/middle-background.jpg);
+    background-repeat: no-repeat;
+    padding-top: 10px;
+    padding-left:2px;
 }
